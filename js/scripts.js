@@ -1,3 +1,12 @@
-// JavaScript Document
+$(document).ready(function() {
+  
+ 	$('.carousel').carousel({
+  	interval: 5000
+	})
+	
+  
+});	
 
-$('p').text('New Content');
+
+
+	
